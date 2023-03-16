@@ -5,7 +5,7 @@ on:
  
     
 env:
-  bucket: jatin-test-bucket1
+  bucket: jatin-backend
   TFSTATE_FILE: jatin-bucket.tfstate
   
   aws-region: us-east-1

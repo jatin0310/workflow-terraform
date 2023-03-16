@@ -8,7 +8,7 @@ on:
  
     
 env:
-  bucket: jatin-test-bucket1
+  bucket: jatin-backend
   TFSTATE_FILE: jatin-bucket.tfstate
   
   aws-region: ${{github.event.inputs.aws-region-name}}
